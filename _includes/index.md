@@ -5,3 +5,4 @@
 ## Detekta...
 
 * Site under construction, please come back again soon!
+* info (at) detekta (dot) co
